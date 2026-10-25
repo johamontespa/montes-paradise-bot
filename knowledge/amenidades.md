@@ -1,31 +1,101 @@
 # Amenidades — Montes Paradise
 
-## La cabaña
-- Cabaña de madera, estilo "lujo rústico", ubicada en Salinas del Rey, Atlántico, Colombia.
-- 2 habitaciones.
-- 2 mezzanines (espacios adicionales para dormir, tipo altillo).
-- Sala.
-- Comedor.
-- Cocina equipada.
-- 3 baños.
-- Capacidad: hasta 10 huéspedes.
+Fuente: listado oficial de Airbnb (airbnb.com/h/montesparadise).
+Total incluidas: 66. No incluidas: 5.
 
-## Piscina y exteriores
-- Piscina privada.
-- 2 balcones: uno con vista al mar, otro con vista a la montaña.
-- Terraza con zona de BBQ (parrilla).
-- 20 metros de playa semi-privada frente a la propiedad.
-- Zona infantil con tobogán y columpio.
-- Mini golf / golf de práctica de 50 yardas, con accesorios incluidos.
+## Baño
+- Secador de pelo
+- Productos de limpieza
+- Shampoo
+- Acondicionador
+- Jabón corporal
+- Ducha exterior
+- Gel de ducha
 
-## Conectividad y servicios
-- WiFi por Starlink (internet satelital, buena señal incluso en zona rural apartada).
-- Parqueadero gratuito con capacidad hasta 8 vehículos.
+## Habitación y lavandería
+- Lavadora
+- Artículos esenciales (toallas, sábanas, jabón, papel higiénico)
+- Ganchos / perchas
+- Ropa de cama
+- Almohadas y mantas adicionales
+- Cortinas blackout
+- Plancha
+- Tendedero para ropa
+- Caja fuerte
+- Espacio para guardar ropa
 
-## Detalles especiales
-- Vino de bienvenida incluido en la estadía.
-- Niños menores de 6 años: gratis.
-- Mascotas: gratis (sin costo adicional).
+## Entretenimiento
+- TV HD de 50 pulgadas con Netflix y cable premium
+- Libros y material de lectura
+- Juegos de tamaño real
+- Minigolf
 
-## Actividades
-- Kitesurf — el spot de Salinas del Rey es reconocido por practicantes de este deporte, con temporada de vientos fuerte entre diciembre y abril.
+## Familia
+- Libros y juguetes para niños
+- Silla para comer de bebé
+- Protección para chimenea
+- Protección en ventanas
+- Juegos de mesa
+- Parque infantil exterior
+
+## Calefacción y aire acondicionado
+- Aire acondicionado
+- Ventilador de techo
+- Ventiladores portátiles
+
+## Seguridad del hogar
+- Cámaras de seguridad exteriores en la propiedad
+- Extintor de incendios
+- Botiquín de primeros auxilios
+
+## Internet y oficina
+- Wifi
+- Espacio de trabajo dedicado
+
+## Cocina y comedor
+- Cocina
+- Refrigerador
+- Elementos básicos de cocina (aceite, sal y pimienta)
+- Platos y cubiertos
+- Mini refrigerador
+- Congelador
+- Hervidor de agua
+- Cafetera
+- Copas de vino
+- Licuadora
+- Utensilios para barbacoa
+- Mesa de comedor
+- Café
+
+## Ubicación
+- Frente al mar
+- Acceso a la playa
+- Entrada privada
+
+## Exteriores
+- Patio o balcón
+- Jardín / patio trasero
+- Muebles de exterior
+- Hamaca
+- Zona de comedor al aire libre
+- Cocina exterior
+- Parrilla BBQ privada: carbón
+- Artículos esenciales de playa (toallas, sombrillas, sillas)
+
+## Estacionamiento e instalaciones
+- Estacionamiento gratuito en la propiedad — 8 espacios
+- Piscina
+- Casa de un solo nivel
+
+## Servicios
+- Se admiten mascotas
+- Se permite dejar el equipaje
+- Se permiten estadías largas
+- El anfitrión te recibe
+
+## No incluido
+- Secadora
+- Detector de humo
+- Detector de monóxido de carbono
+- Calefacción
+- Agua caliente

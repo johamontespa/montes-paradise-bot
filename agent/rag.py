@@ -26,7 +26,8 @@ load_dotenv()
 logger = logging.getLogger("agentkit")
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-EMBEDDING_MODEL = os.getenv("GEMINI_EMBEDDING_MODEL") or "gemini-embedding-001"
+EMBEDDING_MODEL = os.getenv("GEMINI_EMBEDDING_MODEL") or "text-embedding-004"
+
 CHROMA_PATH = os.getenv("CHROMA_PATH") or "chroma_db"
 COLLECTION_NAME = "montes_paradise_knowledge"
 CARPETA_KNOWLEDGE = Path("knowledge")
